@@ -10,3 +10,17 @@ for char in '%20' '%0a' '%00' '%0d0a' '/' '.\\' '.' '…' ':'; do
         echo "shell.jpg$ext$char" >> wordlist.txt
     done
 done
+
+## New Script
+
+![Image](https://github.com/user-attachments/assets/6a20b497-4376-48d6-8098-01127ec288ba)
+
+![Image](https://github.com/user-attachments/assets/b6f50a57-28a5-4407-980e-22c6c51df185)
+
+## Uso
+
+Solo descarga la herramienta.
+
+Luego dale permisos con chmod +x
+
+y ejecuta.
