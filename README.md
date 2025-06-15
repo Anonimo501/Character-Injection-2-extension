@@ -15,6 +15,8 @@ done
 
 ## IMG 1
 
+Ingresa el nombre de la carga util y la extension permitida por la pagina donde cargaras el archivo.
+
 ![Image](https://github.com/user-attachments/assets/6a20b497-4376-48d6-8098-01127ec288ba)
 
 ## IMG 2
