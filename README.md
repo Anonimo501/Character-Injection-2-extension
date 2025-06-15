@@ -17,6 +17,8 @@ done
 
 ![Image](https://github.com/user-attachments/assets/b6f50a57-28a5-4407-980e-22c6c51df185)
 
+![Image](https://github.com/user-attachments/assets/3f280d48-6031-4721-8eff-30b57e4b9fc1)
+
 ## Uso
 
 Solo descarga la herramienta.
