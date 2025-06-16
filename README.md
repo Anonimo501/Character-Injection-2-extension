@@ -1,6 +1,6 @@
 # Character-Injection-2-extension
 
-Simple script que permite generar diccionarios para la inyeccion en el bypass de file upload de CPTS (https://academy.hackthebox.com/module/136/section/1289) Filtros de lista blanca, basicamente es el siguiente script, "pero mejorado".
+Simple script que permite generar diccionarios para la inyeccion de codigos (ej. %00) y lograr el bypass de file upload, el scrip generar diccionarios con la inyeccion de codigo en las 3 siguientes posisiones, al comienzo shell%00.php.png en medio shell.php%00.png y al final shell.php.png%00 lo que permitira mediante ataque de diccionario adivinar en donde es vulnerable y permitir la carga de archivos maliciosos. (https://academy.hackthebox.com/module/136/section/1289) CPTS - Filtros de lista blanca, basicamente es el siguiente script, "pero mejorado".
 
 for char in '%20' '%0a' '%00' '%0d0a' '/' '.\\' '.' '…' ':'; do
     for ext in '.php' '.phps'; do
